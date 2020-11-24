@@ -21,12 +21,12 @@ public class Ex_Comparable {
 		Collections.sort(bookList);
 		System.out.println(bookList);
 		
-		
 	}
 
 }
 
 // Book 클래스에 Comparable 인터페이스 구현
+// 특정 정렬방법을 메서드 오버라이딩을 통해 지정해놓을 수 있다
 class Book implements Comparable<Book>{
 	
 	public String title;
