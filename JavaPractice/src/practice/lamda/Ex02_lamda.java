@@ -12,6 +12,8 @@ public class Ex02_lamda {
 	
 	public static void main(String[] args) {
 		
+		// 함수형 인터페이스, Functional Interface
+		
 //		useConsumer();
 //		useSupplier();
 //		useFunction();

@@ -27,6 +27,7 @@ public class Ex_lamda {
 			System.out.println("람다식에서 구현한 메서드");
 		};
 		m4.test();
+		
 	}
 
 }

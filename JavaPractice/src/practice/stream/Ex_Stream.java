@@ -50,7 +50,7 @@ public class Ex_Stream {
 		// 4. Stream
 		Stream<Integer> stream = nums.stream();
 		stream.forEach(n -> System.out.printf("%3d", n));
-		stream.
+		
 		
 	}
 
